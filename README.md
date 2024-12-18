@@ -50,7 +50,9 @@ python educw_annotation.py --examples_batch_folder educational_samples.csv --ann
 - Verify Python and required libraries are installed
 
 ## License
-[Insert Your License Here]
 
-## Contact
-[Insert Contact Information]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+---
+
+Feel free to reach out if you have any questions or need assistance with the setup. Happy clue generating!
