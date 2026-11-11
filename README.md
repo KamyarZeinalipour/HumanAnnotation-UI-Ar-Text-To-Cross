@@ -1,5 +1,16 @@
 # Educational Writing Annotator
 
+[![Paper](https://img.shields.io/badge/arXiv-2501.11035-b31b1b)](https://arxiv.org/abs/2501.11035)
+[![Main repo](https://img.shields.io/badge/GitHub-Arabic--Text--to--Crosswords-181717?logo=github)](https://github.com/KamyarZeinalipour/Arabic-Text-to-Crosswords)
+[![Collection](https://img.shields.io/badge/%F0%9F%A4%97_Collection-Arabic_Crosswords-orange)](https://huggingface.co/collections/Kamyar-zeinalipour/arabic-educational-crosswords-6af46e6797758d5046eb4f39)
+
+The annotation tool and expert ratings used in the human evaluation of
+[*From Arabic Text to Puzzles: LLM-Driven Development of Arabic Educational Crosswords*](https://arxiv.org/abs/2501.11035).
+The `Annotated/` folder holds the ratings (A–E) for clues written by GPT-4-Turbo, GPT-3.5-Turbo
+(base and fine-tuned) and Llama-3-8B-Instruct (base and fine-tuned,
+[Llama3-8B-Ar-Text-to-Cross](https://huggingface.co/Kamyar-zeinalipour/Llama3-8B-Ar-Text-to-Cross))
+on 200 test passages.
+
 ## Overview
 This script provides a tool for annotating educational writing samples with categorization and additional metadata.
 
@@ -55,4 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ---
 
-Feel free to reach out if you have any questions or need assistance with the setup. Happy clue generating!
+Questions: please open an issue.
